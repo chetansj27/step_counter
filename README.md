@@ -5,5 +5,5 @@
 ### Using this application, we can count daily steps, burnt calories and distance.
 
 ### The app also displays a nice looking graph for showing the data of last 7 and 30 days. 
-<img src="flutey.gif" height="300em" />
+<img src="output.gif" />
 
